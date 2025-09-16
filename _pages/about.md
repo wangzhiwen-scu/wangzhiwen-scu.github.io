@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I will obtain my Ph.D. in December 2024 from the College of Computer Science at Sichuan University and subsequently join the Image Processing and Parallel Computing (IPPC) Laboratory at Southwest Petroleum University. My research focuses on multimodal (image/video/speech/3D) understanding and generation, intelligent agents, world models, AI infrastructure, and next-generation magnetic resonance imaging systems. I possess extensive industry experience in both internet companies and high-end medical device enterprises. I am currently the principal investigator of one National Natural Science Foundation of China (NSFC) Youth Project. As first author or co-author, I have published over ten papers in top-tier journals and conferences, including Cell iScience (a Cell Press journal), IEEE TMI, TCSVT, TAI, TRPMS, JBHI, CVPR, and ICASSP. I have frequently served as a reviewer for prestigious journals and conferences such as IEEE TPAMI, TNNLS, TMI, ICLR, WWW, CVPR, and ICASSP. I have rich hands-on experience in diffusion models, multimodal models, and both efficient and full fine-tuning of large language models. Additionally, I have led product teams and delivered products successfully deployed in internet commercialization and ToC user growth initiatives.
+I obtained my Ph.D. in December 2024 from the College of Computer Science at Sichuan University and subsequently join the Image Processing and Parallel Computing (IPPC) Laboratory at Southwest Petroleum University. My research focuses on multimodal (image/video/speech/3D) understanding and generation, intelligent agents, world models, AI infrastructure, and next-generation magnetic resonance imaging systems. I possess extensive industry experience in both internet companies and high-end medical device enterprises. I am currently the principal investigator of one National Natural Science Foundation of China (NSFC) Youth Project. As first author or co-author, I have published over ten papers in top-tier journals and conferences, including Cell iScience (a Cell Press journal), IEEE TMI, TCSVT, TAI, TRPMS, JBHI, CVPR, and ICASSP. I have frequently served as a reviewer for prestigious journals and conferences such as IEEE TPAMI, TNNLS, TMI, ICLR, WWW, CVPR, and ICASSP. I have rich hands-on experience in diffusion models, multimodal models, and both efficient and full fine-tuning of large language models. Additionally, I have led product teams and delivered products successfully deployed in internet commercialization and ToC user growth initiatives.
 
 Research
 ======
@@ -18,20 +18,19 @@ Multimodal (image/video/speech/3D) understanding and generation, inverse problem
 
 Projects:
 ======
-国家自然科学基金青年科学基金项目（C类）[原青年科学基金项目]，基于自适应多扫描稀疏采样的高分辨率超低场磁共振成像方法研究，2026.1.1-2028.12.31（主持）
+National Natural Science Foundation of China Young Scientists Fund (Category C) [formerly Young Scientists Fund], Research on High-Resolution Ultra-Low Field MRI Methods Based on Adaptive Multi-Scan Sparse Sampling, 2026.1.1–2028.12.31 (PI)
 
-中国空气动力研究与发展中心，具身智能无人机集群控制协同，2025-至今（负责人）
+China Aerodynamics Research and Development Center, Embodied Intelligent UAV Swarm Cooperative Control, 2025–present (Lead)
 
-天府绛溪实验室 2024 成果转化资助资金项目，大语言模型引导的分布式低剂量 CT 重建方法研究，2024-2025（共同负责人）
+Tianfu Jiangxi Laboratory 2024 Achievement Transformation Funding Project, Large Language Model-Guided Distributed Low-Dose CT Reconstruction Method Research, 2024–2025 (Co-PI)
 
-川菜人工智能四川省哲学社会科学重点实验室，基于人工智能多模态模型的川菜烹饪技能数字化评估与教学优化研究，2025-2026（共同负责人）
+Sichuan Province Philosophy and Social Sciences Key Laboratory of Sichuan Cuisine AI, AI Multimodal Model-Based Digital Assessment and Teaching Optimization for Sichuan Cuisine Culinary Skills, 2025–2026 (Co-PI)
 
-开源自主课题，多模态生成式人工智能平台， 2025-至今（负责人）
-
+Open-Source Independent Research Initiative, Multimodal Generative Artificial Intelligence Platform, 2025–present (Lead)
 
 Publications:
 ======
-[1] Zhiwen Wang, Bowen Li, Hui Yu, Zhongzhou Zhang, Maosong Ran, Wenjun Xia, Ziyuan Yang, Jingfeng Lu, Hu Chen, Jiliu Zhou, Hongming Shan, and Yi Zhang. Promoting Fast MR Imaging Pipeline by Full-stack AI[J].Cell iScience, 27(1): 108608, 2024. 
+[1] Zhiwen Wang, Bowen Li, Hui Yu, Zhongzhou Zhang, Maosong Ran, Wenjun Xia, Ziyuan Yang, Jingfeng Lu, Hu Chen, Jiliu Zhou, Hongming Shan, and Yi Zhang. Promoting Fast MR Imaging Pipeline by Full-stack AI[J].Cell iScience, 27(1): 108608, 2024. (Cell Press Journal)
 
 [2] Zhiwen Wang, Maosong Ran, Ziyuan Yang, Hui Yu, Jie Jin, Tao Wang, Jingfeng Lu,
 and Yi Zhang. Generalizable MRI motion correction via compressed sensing equivariant imaging prior[J]. IEEE Transactions on Circuits and Systems for Video Technology, 34(12): 12550-12567, 2024. (中科院1区)
