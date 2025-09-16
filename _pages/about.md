@@ -1,56 +1,101 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I will obtain my Ph.D. in December 2024 from the College of Computer Science at Sichuan University and subsequently join the Image Processing and Parallel Computing (IPPC) Laboratory at Southwest Petroleum University. My research focuses on multimodal (image/video/speech/3D) understanding and generation, intelligent agents, world models, AI infrastructure, and next-generation magnetic resonance imaging systems. I possess extensive industry experience in both internet companies and high-end medical device enterprises. I am currently the principal investigator of one National Natural Science Foundation of China (NSFC) Youth Project. As first author or co-author, I have published over ten papers in top-tier journals and conferences, including Cell iScience (a Cell Press journal), IEEE TMI, TCSVT, TAI, TRPMS, JBHI, CVPR, and ICASSP. I have frequently served as a reviewer for prestigious journals and conferences such as IEEE TPAMI, TNNLS, TMI, ICLR, WWW, CVPR, and ICASSP. I have rich hands-on experience in diffusion models, multimodal models, and both efficient and full fine-tuning of large language models. Additionally, I have led product teams and delivered products successfully deployed in internet commercialization and ToC user growth initiatives.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+Research
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Multimodal (image/video/speech/3D) understanding and generation, inverse problem optimization, intelligent agents, world models, AI infrastructure, next-generation imaging systems (MRI/CT/PET/microscopes, etc.), multi-dimensional nuclear magnetic resonance logging, and more. Undergraduate students in mathematics, physics, computer science, electronic information, automation, mechanical and electrical engineering, as well as those pursuing or planning to pursue postgraduate studies (including those applying for direct entry or entrance exams), are welcome to contact me to explore the above topics or your own areas of interest. Currently, we have sufficient funding — you may choose to research in the direction of the advisor or continue in your own area of interest. For example, generative AI and intelligent agent directions can be applied to services for hundreds of millions of users; next-generation imaging systems and optimization directions can be applied to the development of high-end medical equipment.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- Personal homepage: https://wangzhiwen-scu.github.io/
+- Team homepage: https://www.swpu.edu.cn/scs/info/1172/4477.htm
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
+Projects:
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+国家自然科学基金青年科学基金项目（C类）[原青年科学基金项目]，基于自适应多扫描稀疏采样的高分辨率超低场磁共振成像方法研究，2026.1.1-2028.12.31（主持）
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+中国空气动力研究与发展中心，具身智能无人机集群控制协同，2025-至今（负责人）
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+天府绛溪实验室 2024 成果转化资助资金项目，大语言模型引导的分布式低剂量 CT 重建方法研究，2024-2025（共同负责人）
 
-**Markdown generator**
+川菜人工智能四川省哲学社会科学重点实验室，基于人工智能多模态模型的川菜烹饪技能数字化评估与教学优化研究，2025-2026（共同负责人）
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+开源自主课题，多模态生成式人工智能平台， 2025-至今（负责人）
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+Publications:
+======
+[1] Zhiwen Wang, Bowen Li, Hui Yu, Zhongzhou Zhang, Maosong Ran, Wenjun Xia, Ziyuan Yang, Jingfeng Lu, Hu Chen, Jiliu Zhou, Hongming Shan, and Yi Zhang. Promoting Fast MR Imaging Pipeline by Full-stack AI[J].Cell iScience, 27(1): 108608, 2024. 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[2] Zhiwen Wang, Maosong Ran, Ziyuan Yang, Hui Yu, Jie Jin, Tao Wang, Jingfeng Lu,
+and Yi Zhang. Generalizable MRI motion correction via compressed sensing equivariant imaging prior[J]. IEEE Transactions on Circuits and Systems for Video Technology, 34(12): 12550-12567, 2024. (中科院1区)
+
+[3] Zhiwen Wang, Zexin Lu, Tao Wang, Ziyuan Yang, Hui Yu, Zhongxian Wang, Yinyu
+Chen, Jingfeng Lu, and Yi Zhang. Test-Time Adaptation via Orthogonal Meta Learning for Medical Imaging[J]. IEEE Transactions on Radiation and Plasma
+Medical Sciences, 9(2): 215-227, 2025. (中科院2区)
+
+[4] Zhongzhou Zhang, Yingyu Chen, Hui Yu, Zhiwen Wang, Shanshan Wang, Fenglei Fan, Hongming Shan, and Yi Zhang. UniAda: Domain Unifying and Adapting
+Network for Generalizable Medical Image Segmentation[J]. IEEE Transactions on
+Medical Imaging, 1-1, 2025. (SCI 收录)
+
+[5] Ziyuan Yang, Yingyu Chen, Zhiwen Wang, Hongming Shan, Yang Chen, Yi Zhang.
+Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated LowDose CT Denoising Empowered by Large Language Model, Conference on Computer Vision and Pattern Recognition (CVPR), 2025. (EI 收录)
+
+[6] Zhongzhou Zhang, Hui Yu, Zhongxian Wang, Zhiwen Wang, Jingfeng Lu, Yan Liu,
+and Yi Zhang. Gradient-Guided Network With Fourier Enhancement for Glioma Segmentation in Multimodal 3D MRI[J]. IEEE Journal of Biomedical and Health Informatics, 28(11): 6778-6790, 2024. (SCI 收录)
+
+[7] Tao Wang, Hui Yu, Zhiwen Wang, Hu Chen, Yan Liu, Jingfeng Lu, and Yi Zhang.
+SemiMAR: Semi-supervised learning for CT metal artifact reduction[J]. IEEE Journal of Biomedical and Health Informatics, 27(11): 5369-5380, 2023. (SCI 收录)
+
+[8] Zexin Lu, Qi Gao, Tao Wang, Ziyuan Yang, Zhiwen Wang, Hui Yu, Hu Chen, Jiliu
+Zhou, Hongming Shan, and Yi Zhang. PrideDiff: Physics-Regularized Generalized
+Diffusion Model for CT Reconstruction[J]. IEEE Transactions on Radiation and
+Plasma Medical Sciences, 9(2): 157-168, 2025. (ESCI 收录)
+
+[9] Bowen Li, Zhiwen Wang, Ziyuan Yang, Wenjun Xia, and Yi Zhang. Progressive
+Dual-Domain-Transfer CycleGAN for Unsupervised MRI Reconstruction[J]. Neurocomputing, 563: 126934, 2024. (SCI 收录)
+
+[10] Hui Yu, Ziyuan Yang, Zhongzhou Zhang, Tao Wang, Maoson Ran, Zhiwen Wang,
+Lunxin Liu, Yan Liu, and Yi Zhang. Multiple Organ Segmentation Framework
+for Brain Metastasis Radiotherapy[J]. Computers in Biology and Medicine, 177:
+108637, 2024. (SCI 收录)
+
+[11] Yingyu Chen, Ziyuan Yang, Chenyu Shen, Zhiwen Wang, Zhongzhou Zhang, Yang
+Qin, Xin Wei, Jingfeng Lu, Yan Liu, and Yi Zhang. Evidence-based uncertaintyaware semi-supervised medical image segmentation[J]. Computers in Biology and
+Medicine, 170: 108004, 2024. (SCI 收录)
+
+[12] Zhiwen Wang, Wenjun Xia, Zexin Lu, Yongqiang Huang, Yan Liu, Hu Chen, Jiliu
+Zhou, and Yi Zhang. One Network to Solve Them All: A Sequential Multi-task Joint
+Learning Network Framework for MR Imaging Pipeline[C]. International Workshop
+on Machine Learning for Medical Image Reconstruction (MLMIR), 76-85, 2021.
+(EI 收录)
+
+[13] Zhiwen Wang, Bowen Li, Wenjun Xia, Chenyu Shen, Mingzheng Hou, Hu Chen,
+Yan Liu, Jiliu Zhou, and Yi Zhang. LEADERS: Learnable Deep Radial Subsampling for MRI Reconstruction[C]. IEEE International Symposium on Biomedical Imaging (ISBI), 1-5, 2022. (EI 收录) 
+
+[14] Yingyu Chen, Ziyuan Yang, Chenyu Shen, Zhiwen Wang, Yang Qin, and Yi Zhang.
+EVIL: Evidential Inference Learning for Trustworthy Semi-Supervised Medical Image Segmentation[C]. IEEE International Symposium on Biomedical Imaging
+(ISBI), 1-5, 2023. (EI 收录)
+
+[15] Zhongxian Wang, Zhiwen Wang, Zhongzhou Zhang, Ziyuan Yang, Maosong Ran,
+Hui Yu, Zhenyang Yu, and Yi Zhang. Dynamic Focus Mechanism-Based DualDomain Reconstruction Network for Accelerated MRI[C]. IEEE International Symposium on Biomedical Imaging (ISBI), 1-5, 2023. (EI 收录)
+
+[16] 王钟贤, 王志文, 张中洲, 杨子元, 冉茂松, 余慧, 张意. PFONet：一种用于加速
+MRI 的渐进式聚焦导向双域重建网络 [J]. 四川大学学报 (自然科学版), 61(05):
+127-142, 2024. (中文核心收录)
+
+[17] 李博文, 王志文, 冉茂松, 杨子元, 张意. 基于双域交互 Transformer 的磁共振图像
+重建 [J]. 四川大学学报 (自然科学版), 61(03): 119-130, 2024. (中文核心收录)
+
+[18] Mengyu Sun, Ziyuan Yang, Maosong Ran, Zhiwen Wang, Hui Yu, Yi Zhang, Plaintext-Free Deep Learning for Privacy-Preserving Medical Image Analysis through Frequency Information Embedding, ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (EI 收录)
+
+[19] Ziyuan Yang, Huijie Huangfu, Maosong Ran, Zhiwen Wang, Hui Yu, Mengyu Sun, Yi Zhang, A Novel Privacy-Enhancing Framework for Low-Dose CT Denoising, IEEE Transactions on Artificial Intelligence, 1 – 14, 2025 (ESCI 收录)
+
+Contact:
+Email: paprikatree@foxmail.com, zwwang1228@gmail.com
