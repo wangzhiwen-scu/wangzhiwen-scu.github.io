@@ -98,9 +98,10 @@ MRI 的渐进式聚焦导向双域重建网络 [J]. 四川大学学报 (自然�
 
 Contact
 ======
-Email: paprikatree@foxmail.com, zwwang1228@gmail.com
+Email: zwwang1228@gmail.com，paprikatree@foxmail.com
 
-毕业生去向：
+毕业生去向
+======
 
 本科生：
 
