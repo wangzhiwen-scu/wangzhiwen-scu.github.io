@@ -104,8 +104,8 @@ Email: zwwang1228@gmail.com，paprikatree@foxmail.com
 ======
 
 本科生：
-- 2022级，赵丽君，南京理工大学2026级硕士研究生录取
-- 2022级，李婷婷，南京理工大学2026级硕士研究生录取
+- Lijun Zhao, admitted to NUST（南京理工大学）, graduating in 2026.
+- Tingting Li，admitted to NUST（南京理工大学）, graduating in 2026.
 
 研究生：
 - 暂无
