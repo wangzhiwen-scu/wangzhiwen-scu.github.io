@@ -1,7 +1,7 @@
 ---
 title: '本科实习'
 date: 2025-10-07
-permalink: /posts/2025/01/undergraduate-research/
+permalink: /posts/2025/10/undergraduate-research/
 tags:
   - 本科生科研
   - 实习
