@@ -10,7 +10,7 @@ categories:
   - 科研指导
 ---
 
-# 本科实习
+# 本科生三阶段的科研训练
 
 对于本科进组实习和训练的同学，老师着手打造计科院**多模态科学计算学生创新团队**，未来将在团委注册成实验室直属的实体社团：**多模态科学计算开源社团**，一个机构两个名称（方便对外对内交流）。目前所有报名同学默认加入拟成立的**社团**成为会员，并接受**练习训练营**三阶段的科研训练，训练合格者（不难，主要在于持之以恒的坚持）将成为资深会员，训练最优秀者可立即推荐到香港理工大学、梅奥诊所（Mayo Clinic）等顶级科研机构接受指导。社团未来将形成大三、大二、大一的传帮带氛围，用于培养和选拔学有余力并有志于进组实习的科研后备人才。不认可此种培训方式的同学可退出。
 
@@ -62,9 +62,9 @@ categories:
 
 ### 学术论文资源-LaTeX写作示例:
 LaTeX是论文写作与管理格式规范的重要工具。最简单快速的上手办法就是从样例开始学起，照猫画虎。
-- Res2Net: A New Multi-scale Backbone Architecture, Shang-Hua Gao, Ming-Ming Cheng, Kai Zhao, Xin-Yu Zhang, Ming-Hsuan Yang, Philip Torr, IEEE TPAMI, 2020. [pdf](http://mftp.mmcheng.net/Papers/19pami_res2net.pdf)|[code](https://github.com/gasvn/Res2Net)|[pptx](http://mftp.mmcheng.net/Papers/20Res2Net.pptx)|[project](https://mmcheng.net/res2net/)|[LaTeX](https://www.overleaf.com/read/zqttbzknmjrz)
-- Global Contrast based Salient Region Detection. Ming-Ming Cheng, Niloy J. Mitra, Xiaolei Huang, Philip H. S. Torr, Shi-Min Hu. IEEE TPAMI, 37(3), 569-582, 2015.  [pdf](https://mmcheng.net/mftp/Papers/SaliencyTPAMI.pdf)|[project](https://mmcheng.net/SalObj/)|[bib](https://mmcheng.net/mftp/Papers/SaliencyObj.txt)|[LaTex](https://www.overleaf.com/read/tmckznsgbknh)|[Overleaf Latex 中文版](https://www.overleaf.com/read/rzdpjzqwkdwb) 
-- 图像内容的显著性与相似性研究, 程明明, 清华大学博士学位论文, 2012.  [pdf](https://mmcheng.net/mftp/Papers/CmmPhdThesis.pdf)|[latex](https://mmcheng.net/mftp/Papers/CmmThesisLatex.zip)|[bib](https://mmcheng.net/mftp/Papers/CmmPhdThesis.txt)|[slides](http://mftp.mmcheng.net/Reports/2020CmmPhD.pptx)
+- Res2Net: A New Multi-scale Backbone Architecture, Shang-Hua Gao, Ming-Ming Cheng, Kai Zhao, Xin-Yu Zhang, Ming-Hsuan Yang, Philip Torr, IEEE TPAMI, 2020. [pdf](http://mftp.mmcheng.net/Papers/19pami_res2net.pdf)、[code](https://github.com/gasvn/Res2Net)、[pptx](http://mftp.mmcheng.net/Papers/20Res2Net.pptx)、[project](https://mmcheng.net/res2net/)、[LaTeX](https://www.overleaf.com/read/zqttbzknmjrz)
+- Global Contrast based Salient Region Detection. Ming-Ming Cheng, Niloy J. Mitra, Xiaolei Huang, Philip H. S. Torr, Shi-Min Hu. IEEE TPAMI, 37(3), 569-582, 2015.  [pdf](https://mmcheng.net/mftp/Papers/SaliencyTPAMI.pdf)、[project](https://mmcheng.net/SalObj/)、[bib](https://mmcheng.net/mftp/Papers/SaliencyObj.txt)、[LaTex](https://www.overleaf.com/read/tmckznsgbknh)、[Overleaf Latex 中文版](https://www.overleaf.com/read/rzdpjzqwkdwb) 
+- 图像内容的显著性与相似性研究, 程明明, 清华大学博士学位论文, 2012.  [pdf](https://mmcheng.net/mftp/Papers/CmmPhdThesis.pdf)、[latex](https://mmcheng.net/mftp/Papers/CmmThesisLatex.zip)、[bib](https://mmcheng.net/mftp/Papers/CmmPhdThesis.txt)、[slides](http://mftp.mmcheng.net/Reports/2020CmmPhD.pptx)
 
 Thanks to CMM!
 
