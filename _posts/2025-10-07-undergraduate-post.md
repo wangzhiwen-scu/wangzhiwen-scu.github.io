@@ -86,4 +86,8 @@ Thanks to CMM!
 - codex
 - 其他等
 
+### 博客学习:
+- 苏剑林博客（人工智能相关的数学部分）: [科学空间](https://spaces.ac.cn/)
+- huggingface、model 魔搭社区、pytorch tutorial
+
 部分方向论文复现需要较好的显卡，可在多个云平台上自行租赁：如，[automl](www.autodl.com), [仙宫云](https://www.xiangongyun.com/)等性价比高的云平台。
