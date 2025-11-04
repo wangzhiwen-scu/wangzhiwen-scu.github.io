@@ -377,8 +377,8 @@ LaTeX 是论文写作与管理格式规范的重要工具。最简单快速的�
 
 4. **报告模板：GITHUB & Overleaf Template**
   - 如没有特殊说明，github和latex需要用英语。
-  - 🔗 github 模板资源：这个是学姐的作业，[github](https://github.com/Zxq-hub1/Research-Training/tree/main/week15)。以week15为标准。注意，所有作业都在一个repo里面，按照week1, ..., weekn 来建立文件夹，每个文件夹是完整的项目，能复现，并且有说明文档，结果有图像和表格数据的，readme里面必须有图像和表格。提交作业就提供github链接。
-  - 🔗 完整CVPR latex 模板资源：这个是学姐的作业，[overleaf_cvpr]()，latex可以生成pdf文档，是对github项目的完整学术说明，如没有特殊说明，需要用英语。提交作业就提供latex只读链接。
+  - 🔗 github 模板资源：这个是学姐的作业 (给学姐的repo点个star)，[github](https://github.com/Zxq-hub1/Research-Training/tree/main/week15)。格式和内容以week15为标准。注意，所有作业都在一个repo里面，按照week1, ..., weekn 来建立文件夹，每个文件夹是完整的项目，能复现，并且有说明文档，结果有图像和表格数据的，readme里面必须有图像和表格。提交作业就提供github链接。
+  - 🔗 完整CVPR latex 模板资源：这个是学姐的作业，[overleaf_cvpr](https://cn.overleaf.com/read/mdxxyrwpdgst#6381d3)，latex可以生成pdf文档，是对github项目的完整学术说明，如没有特殊说明，需要用英语。提交作业就提供latex只读链接，新学员的latex格式、章节和内容需严格按照模板来。注意：生成的pdf不能超过4页，最好2-3页，越能简单说清楚问题越好。
   - 🔗 其他latex 模板资源：[ICMl 2025 template](https://www.overleaf.com/latex/templates/icml2025-template/dhxrkcgkvnkt)，若cvpr模板用不习惯的同学，可以用icml的模板。
   - 网络有问题的同学，可以在overleaf上下载latex模板，倒入到国产的[texpage](https://www.texpage.com/zh/template/)。
 
