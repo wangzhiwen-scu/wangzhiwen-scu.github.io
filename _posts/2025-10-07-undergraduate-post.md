@@ -26,9 +26,12 @@ categories:
 
 第二阶段：萌芽期。在第二阶段“萌芽期”，我们要求从给定的 21 个论文主题集合中挑选 1 个，每个主题包含 10 篇以上工作。选定主题后，申请人需要每周打卡汇报上一周的学习进展并在**github上更新完成相关复现**，并在看完一篇论文后用**做复现实验和总结，并用overleaf写成latex，分享overleaf地址在周报中**。若长期缺席，则视为自愿放弃并从训练营中移除。再次提醒：请勿使用与训练内容无关的内容或者大模型生成的内容来搪塞打卡、凑够打卡次数，我们有核查机制，万事诚信第一。
 
+第二阶段进阶：非论文（AIGC）：以下（1）（2）（3）必做，（1）中必选3个，（2）中选1个，（3）中选1个。有相关不懂的先问大模型，b站，知乎，小红书，AI第一要义是把AI工具掌握。(1) 或者需要将知乎上[深入浅出完整解析Stable Diffusion（SD）核心基础知识
+](https://zhuanlan.zhihu.com/p/632809634) 、[SDXL](https://zhuanlan.zhihu.com/p/643420260)，[Unet](https://zhuanlan.zhihu.com/p/642354007), [LoRA（Low-Rank Adaptation）](https://zhuanlan.zhihu.com/p/639229126), [ControlNet](https://zhuanlan.zhihu.com/p/660924126), [主流AI绘画框架（Stable Diffusion WebUI、ComfyUI、Fooocus）核心基础知识](https://zhuanlan.zhihu.com/p/673439761), [Stable Diffusion 3（SD 3）和FLUX.1](https://zhuanlan.zhihu.com/p/684068402), [Sora、Wan2.1、AnimateDiff、CogVideoX等AI视频大模型核心基础知识](https://zhuanlan.zhihu.com/p/706722494) , [AI Agent（AI智能体）的核心基础知识](https://zhuanlan.zhihu.com/p/1919046969076195976)，[🤖 从零开始构建智能体系统原理与实践教程](https://github.com/datawhalechina/hello-agents)相关系列吃透；（2）去相关生图网站进行 文生图任务（sd1.5, sdxl, flux, qwen-image至少50张），图像编辑任务（qwen-image-edit, qwen-image-edit-2509, flux 至少20张），文生视频（wan2.1, wan2.2 海螺等 至少10个），图生视频任务（wan2.1, wan2.2 海螺等 至少10个），每个任务都需要完成。相关可以每日白嫖网站如下：[runninghub](https://www.runninghub.cn/workflows), [modelscope](https://modelscope.cn/my/overview), [modo](https://modo.art/) 炼模型, [d](https://d.design/?tab=model), [liblib](https://www.liblib.art/inspiration), [seaart](seaart.ai); (3) 利用平台训练lora模型，需要完成sdxl，flux，qwen-image下角色lora和风格训练lora，以及wan2.1 或者wan2.2的训练。[modelscope](https://modelscope.cn/my/overview), [modo](https://modo.art/) 炼模型, [d](https://d.design/?tab=model), [liblib](https://www.liblib.art/inspiration), [seaart](seaart.ai)；（4）自己部署[sd-scripts](), [musubi](), [sd-scripts-UI秋叶](), [flux-gym](), [diffusion-pipe](), [ai-toolkit]()等代码到仙宫云或者本地电脑进行训练，随后用[web-ui]()和[comfyui]()部署进行lora推理。(5)设计智能体进行不同AIGC模型的调用。
+
 详细合集论文请参考：https://pan.baidu.com/s/1mcKWP4gdD9PR6thPvKnVGw?pwd=grok ，课程在随时优化改进，以最新的为主（已经做了的就以原来的版本为主）。
 
-打卡内容示范：
+打卡内容示范【打卡主要是github提交，github链接由学习委员收集】：
 
 > 本周：按照李沐老师课程的顺序回顾了上学期中已学习过的一些简单的神经网络的内容：从最基本的线性回归开始，到softmax回归，多层感知机和CNN中最基础的知识且又动手从零开始构建，本期学习项目地址：github.com/xxxx/。在回顾的过程中收获颇丰，不仅加深了记忆，也对当时遗留下来的一些问题又有了一些新的理解。同时最初步的阅读了一下所选主题中一篇关于LoRA的论文，从论文中了解到随着模型规模的不断增大，全参数微调变的不再可行，取而代之是LoRA的思想:冻结原矩阵，引入一个可训练的矩阵并对其进行低秩分解以只训练较少的参数。   
 > 下周目标：继续推进李沐老师的课程的学习；学习论文中所提到的transformer架构以及其前置知识；继续理解这篇论文的公式及其原理。
@@ -41,7 +44,7 @@ categories:
 
 需要提醒的是，分配的论文阅读任务在数量和难度上都颇具挑战，相当于一次研究生 Seminar 汇报的工作强度。推荐第二阶段的同学可随时复习自学《动手学深度学习》（https://zh.d2l.ai/ ）、《CS231n: Deep Learning for Computer Vision》（https://cs231n.stanford.edu/ ）等课程来夯实基础。温故知新。
 
-第三阶段：培育期。萌芽期结业答辩会有评委打分，均分大于 85 的同学进入第三阶段培育期，重点培育和考察动手编程的能力，此阶段会有组内的老师和研究生给与适当的指导和答疑。我们希望同学能够从第2轮所选主题的相关论文中，选择一篇论文用国产的 Jittor 框架（https://github.com/Jittor/jittor ）进行实现并开源在个人 Github 上。第二轮代码面试的 Jittor 代码开源链接，请将环境配置、数据准备脚本、训练脚本、测试脚本、与 PyTorch 实现对齐的实验 Log、性能 Log 都放在 README 中。如果计算资源有限，用少量数据的训练效果和 PyTorch 版本的结果对齐。请将训练过程 Log、Loss 曲线，结果等对齐情况进行记录。并在overleaf 上用latex完成相关报告攥写。
+第三阶段：培育期。萌芽期结业答辩会有评委打分，均分大于 85 的同学进入第三阶段培育期，重点培育和考察动手编程的能力，此阶段会有组内的老师和研究生给与适当的指导和答疑。我们希望同学能够从第2轮所选主题的相关论文中，选择一篇论文或开源项目用国产百度 padlepadle 框架 或者 华为 mindspore, 进行实现并开源在个人 Github 上。第二轮代码面试的 开源 代码开源链接，请将环境配置、数据准备脚本、训练脚本、测试脚本、与 PyTorch 实现对齐的实验 Log、性能 Log 都放在 README 中。如果计算资源有限，用少量数据的训练效果和 PyTorch 版本的结果对齐。请将训练过程 Log、Loss 曲线，结果等对齐情况进行记录。并在overleaf 上用latex完成相关报告攥写。
 
 结业：完成三阶段后，可以选择成为资深会员，后续继续由老师指导和大模型训练，参加各种比赛和论文攥写。
 
@@ -86,6 +89,8 @@ Thanks to CMM!
 - Gemini Cli
 - Copilot
 - codex
+- google [adk](https://google.github.io/adk-docs/)
+- claude [skill](https://github.com/anthropics/skills)
 - 其他等
 
 ### 博客学习:
