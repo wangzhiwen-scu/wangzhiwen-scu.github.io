@@ -182,8 +182,8 @@ categories:
 - [diffusion-pipe](https://github.com/tdrussell/diffusion-pipe)
 - [diffusion-pipe-ui](https://github.com/alisson-anjos/diffusion-pipe-ui)
 - [ai-toolkit](https://github.com/ostris/ai-toolkit)
-- 必选：大模型微调：LLM Qwen和VLM视觉语言模型微调：[llamafactory](https://github.com/hiyouga/LLaMA-Factory), [llamafactory文档](https://llamafactory.readthedocs.io/zh-cn/latest/getting_started/installation.html)
-- 必选：强化学习框架：[TRL](https://github.com/huggingface/trl), [Verl](https://github.com/volcengine/verl)
+- 必选：大模型微调：LLM Qwen和VLM视觉语言模型微调：[llamafactory](https://github.com/hiyouga/LLaMA-Factory), [llamafactory文档](https://llamafactory.readthedocs.io/zh-cn/latest/getting_started/installation.html), [LLaMA-Factory微调训练Qwen2-VL-7B与视觉大模型数据集制作流程](https://zhuanlan.zhihu.com/p/26993872051), [LLaMaFactory+Qwen2-VL-2B微调多模态医疗大模型](https://developer.aliyun.com/article/1643200), [PAI+LLaMA Factory 微调 Qwen2-VL 模型，搭建文旅领域知识问答机器人](https://developer.aliyun.com/article/1613527), [文旅领域知识问答机器人数据集](https://github.com/BUAADreamer/Qwen2-VL-History), [大模型三阶段训练方法(LLaMa Factory)](https://17aitech.com/?spm=a2c6h.12873639.article-detail.8.54d43252jey72f&p=13611)
+- 必选：强化学习框架：[TRL](https://github.com/huggingface/trl), [Verl](https://github.com/volcengine/verl), [GRPO-qwen实战](https://zhuanlan.zhihu.com/p/1909378518925710376), [GiGRPO](https://github.com/langfengQ/verl-agent)
 - 从零开始训练大模型框架: [LLM大语言模型](https://github.com/jingyaogong/minimind), [VLM多模态大模型](https://github.com/jingyaogong/minimind)
 
 **推理部署**：
@@ -394,6 +394,8 @@ LaTeX 是论文写作与管理格式规范的重要工具。最简单快速的�
   - 🔗 完整CVPR latex 模板资源：这个是学姐的作业，[overleaf_cvpr](https://cn.overleaf.com/read/mdxxyrwpdgst#6381d3)，latex可以生成pdf文档，是对github项目的完整学术说明，如没有特殊说明，需要用英语。提交作业就提供latex只读链接，新学员的latex格式、章节和内容需严格按照模板来。注意：生成的pdf不能超过4页，最好2-3页，越能简单说清楚问题越好。
   - 🔗 其他latex 模板资源：[ICMl 2025 template](https://www.overleaf.com/latex/templates/icml2025-template/dhxrkcgkvnkt)，若cvpr模板用不习惯的同学，可以用icml的模板。
   - 网络有问题的同学，可以在overleaf上下载latex模板，倒入到国产的[texpage](https://www.texpage.com/zh/template/)。
+5. **软件著作模板**
+  - [腾讯文档软著YOVOv7 课堂数据集](https://docs.qq.com/s/GmsJlEbZPL2QqvUMarbfxG/folder/XLyQJEKfVDqS) 
 
 > 🙏 **Thanks to CMM!**
 
