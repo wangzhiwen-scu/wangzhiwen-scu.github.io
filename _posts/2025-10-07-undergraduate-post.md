@@ -159,6 +159,7 @@ categories:
   - DreamBooth 训练
   - 常规 LoRA 训练
   - 加正则化训练
+  - 全量微调
 - Wan2.1 或 Wan2.2 的训练
 
 **推荐平台**：
@@ -181,6 +182,9 @@ categories:
 - [diffusion-pipe](https://github.com/tdrussell/diffusion-pipe)
 - [diffusion-pipe-ui](https://github.com/alisson-anjos/diffusion-pipe-ui)
 - [ai-toolkit](https://github.com/ostris/ai-toolkit)
+- 大模型微调：LLM Qwen和VLM视觉语言模型微调：[llamafactory](https://github.com/hiyouga/LLaMA-Factory), [llamafactory文档](https://llamafactory.readthedocs.io/zh-cn/latest/getting_started/installation.html)
+- 强化学习框架：[TRL](https://github.com/huggingface/trl), [Verl](https://github.com/volcengine/verl)
+- 从零开始训练大模型框架: [LLM大语言模型](https://github.com/jingyaogong/minimind), [VLM多模态大模型](https://github.com/jingyaogong/minimind)
 
 **推理部署**：
 - [Web-UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
@@ -245,6 +249,9 @@ categories:
 从第二阶段所选主题的相关论文中，选择一篇论文或开源项目，用国产框架进行实现并开源在个人 GitHub 上：
 - 🇨🇳 百度 PaddlePaddle 框架
 - 🇨🇳 华为 MindSpore 框架
+
+或者将MATLAB相关代码，或者其他未加速的代码用Triton和CUDA写到pytorch上：
+- [Triton](https://github.com/triton-lang/triton)
 
 #### 📦 开源要求
 
