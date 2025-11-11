@@ -34,7 +34,7 @@ categories:
 - 💼 参加互联网+等创新创业比赛、发明专利和 SCI 论文发表
 
 > ⚠️ **重要提示**：
-> - 💰 科研补助费用只在完成相关竞赛或论文等科研产出后进行专项补助
+> - 💰 科研补助费用只在完成相关竞赛或论文等科研产出后进行专项补助；
 > - 📝 本科生论文有老师通讯作者保研不加分
 > - 🚪 介意以上者可以退出此次培训营
 
@@ -51,7 +51,7 @@ categories:
 
 ## 🌱 三阶段训练体系
 
-目前，练习训练营共有三个阶段，分别是"**播种期**"、"**萌芽期**"和"**培育期**"。提交方式是给指定的同学提交github链接和latex公开只读链接，文章最后面有模板。
+目前，练习训练营共有三个阶段，分别是"**播种期**"、"**萌芽期**"和"**培育期**"。提交方式是给指定的同学提交github链接和latex公开只读链接（latex只读链接放在github每次作业提交中），文章最后面有模板。
 
 ### 🌾 第一阶段：播种期
 
@@ -169,21 +169,21 @@ categories:
 - [liblib](https://www.liblib.art/inspiration)
 - [seaart](https://seaart.ai)
 
-##### **(4) 💻 本地部署**（任选4种，第一第二个必选，剩下两个可以选择UI）
+##### **(4) 💻 本地部署**（任选，带必选样式的必选）
 
 自己部署以下代码到[仙宫云](https://www.xiangongyun.com/)或者本地电脑进行训练：
 
 **训练框架**：
-- [sd-scripts](https://github.com/kohya-ss/sd-scripts/)
-- [musubi](https://github.com/kohya-ss/musubi-tuner)
+- 必选：[sd-scripts](https://github.com/kohya-ss/sd-scripts/)
+- 必选：[musubi](https://github.com/kohya-ss/musubi-tuner)
 - [sd-scripts-UI 秋叶](https://github.com/Akegarasu/lora-scripts)
 - [flux-gym](https://github.com/cocktailpeanut/fluxgym)
 - [diffuser](https://huggingface.co/docs/diffusers/main/en/training/lora)
 - [diffusion-pipe](https://github.com/tdrussell/diffusion-pipe)
 - [diffusion-pipe-ui](https://github.com/alisson-anjos/diffusion-pipe-ui)
 - [ai-toolkit](https://github.com/ostris/ai-toolkit)
-- 大模型微调：LLM Qwen和VLM视觉语言模型微调：[llamafactory](https://github.com/hiyouga/LLaMA-Factory), [llamafactory文档](https://llamafactory.readthedocs.io/zh-cn/latest/getting_started/installation.html)
-- 强化学习框架：[TRL](https://github.com/huggingface/trl), [Verl](https://github.com/volcengine/verl)
+- 必选：大模型微调：LLM Qwen和VLM视觉语言模型微调：[llamafactory](https://github.com/hiyouga/LLaMA-Factory), [llamafactory文档](https://llamafactory.readthedocs.io/zh-cn/latest/getting_started/installation.html)
+- 必选：强化学习框架：[TRL](https://github.com/huggingface/trl), [Verl](https://github.com/volcengine/verl)
 - 从零开始训练大模型框架: [LLM大语言模型](https://github.com/jingyaogong/minimind), [VLM多模态大模型](https://github.com/jingyaogong/minimind)
 
 **推理部署**：
