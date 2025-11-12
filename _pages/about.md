@@ -13,8 +13,8 @@ I obtained my Ph.D. in December 2024 from the College of Computer Science at Sic
 
 News:
 ======
-- 🔥Paper "STAND-Net: Lighting-Fast MRI Recontruction via Stage-Aware Deep Unrolling with Neural Tensor Decomposition" accepted by journal IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP), 2025-11-20. [Publising]().
-- Paper "Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated LowDose CT Denoising Empowered by Large Language Model" accepted by conference CVPR 2025, 2025-2-20. [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Patient-Level_Anatomy_Meets_Scanning-Level_Physics_Personalized_Federated_Low-Dose_CT_Denoising_CVPR_2025_paper.pdf), [code](https://github.com/Zi-YuanYang/SCAN-PhysFed).
+- 🔥One Paper "STAND-Net: Lighting-Fast MRI Recontruction via Stage-Aware Deep Unrolling with Neural Tensor Decomposition" is accepted by IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP), 2025-11-20. [Publising]().
+- One Paper "Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated LowDose CT Denoising Empowered by Large Language Model" is accepted by CVPR 2025, 2025-2-20. [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Patient-Level_Anatomy_Meets_Scanning-Level_Physics_Personalized_Federated_Low-Dose_CT_Denoising_CVPR_2025_paper.pdf), [code](https://github.com/Zi-YuanYang/SCAN-PhysFed).
 
 Research
 ======
