@@ -1,6 +1,6 @@
 ---
 title: '本科实习'
-date: 2025-11-04
+date: 2025-11-12
 permalink: /posts/2025/10/undergraduate-research/
 tags:
   - 本科生科研
@@ -182,7 +182,6 @@ categories:
 - 智能医学方向（该方向可以提供最大学术资源，这个方向老师独家，后续保研-工作很好，冲击国内外牛校，可保计算机），磁场不均匀设计（偏物理，麦克斯韦方程等），图像重建（偏AI），新一代磁共振成像设备（物理+AI）。
 
 ##### **(7) 模型组建 **
-
 - KV CACHE
 - Flash attention v1, Flash attention v2, Flash attention v3, sage attention.
 - vLLM部署, SGlang部署, fastapi
