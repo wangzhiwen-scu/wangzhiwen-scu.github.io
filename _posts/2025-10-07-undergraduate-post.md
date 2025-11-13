@@ -182,10 +182,10 @@ categories:
 - 具身智能方向（和赛力斯、中国空气动力中心合作，这个方向也是非常热门，后续保研-工作都不错），先导学习初步为仿真Issac等以及VLA或者具身世界模型；
 - 智能医学方向（该方向可以提供最大学术资源，这个方向老师独家，后续保研-工作很好，冲击国内外牛校，可保计算机），磁场不均匀设计（偏物理，麦克斯韦方程等），图像重建（偏AI），新一代磁共振成像设备（物理+AI）。
 
-##### **(7) 模型组建 **
-- KV CACHE
-- Flash attention v1, Flash attention v2, Flash attention v3, sage attention.
-- vLLM部署, SGlang部署, fastapi
+##### **(7) 工程和模块 **
+- [Transformer极简代码实现](https://zhuanlan.zhihu.com/p/691126108), [KV CACHE](https://zhuanlan.zhihu.com/p/1952433548859520602), [MHA-MLA](https://kexue.fm/archives/10091), [NSA](https://github.com/dhcode-cpp/NSA-pytorch), MoE.
+- [Flash attention v1](https://zhuanlan.zhihu.com/p/714881594), [Flash attention v2](https://zhuanlan.zhihu.com/p/691067658), Flash attention v3, sage attention, (pagedattenttion](https://zhuanlan.zhihu.com/p/691038809)
+- [vLLM部署](https://zhuanlan.zhihu.com/p/691045737), [SGlang架构](https://zhuanlan.zhihu.com/p/1971979669222942431), [SGlang](https://zhuanlan.zhihu.com/p/1902693450014496496), [SGlang Diffusion](https://zhuanlan.zhihu.com/p/1970401295279056032) fastapi
 - 3DGS，混元3D模型，VLA（pi0等）
 - (选修) docker, k8s, vllm部署，promethus-grafana监控, 数据库日志存储，模型管理，ci/cd jenkins 自动化等。
 
