@@ -184,7 +184,7 @@ categories:
 
 ##### **(7) 工程和模块 **
 - [Transformer极简代码实现](https://zhuanlan.zhihu.com/p/691126108), [KV CACHE](https://zhuanlan.zhihu.com/p/1952433548859520602), [MHA-MLA](https://kexue.fm/archives/10091), [NSA](https://github.com/dhcode-cpp/NSA-pytorch), MoE.
-- [Flash attention v1](https://zhuanlan.zhihu.com/p/714881594), [Flash attention v2](https://zhuanlan.zhihu.com/p/691067658), Flash attention v3, sage attention, (pagedattenttion](https://zhuanlan.zhihu.com/p/691038809)
+- [Flash attention v1](https://zhuanlan.zhihu.com/p/714881594), [Flash attention v2](https://zhuanlan.zhihu.com/p/691067658), Flash attention v3, sage attention, [pagedattenttion](https://zhuanlan.zhihu.com/p/691038809)
 - [vLLM部署](https://zhuanlan.zhihu.com/p/691045737), [SGlang架构](https://zhuanlan.zhihu.com/p/1971979669222942431), [SGlang](https://zhuanlan.zhihu.com/p/1902693450014496496), [SGlang Diffusion](https://zhuanlan.zhihu.com/p/1970401295279056032) fastapi
 - 3DGS，混元3D模型，VLA（pi0等）
 - (选修) docker, k8s, vllm部署，promethus-grafana监控, 数据库日志存储，模型管理，ci/cd jenkins 自动化等。
